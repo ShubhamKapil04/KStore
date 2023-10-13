@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719829866917",
+    "project_id": "kstore-d3635",
+    "storage_bucket": "kstore-d3635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719829866917:android:b614d9ea7473e5bd28b04c",
+        "android_client_info": {
+          "package_name": "com.example.kstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZq6_q2cZ9nBKqek0NhaYamN0rHobmbgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
